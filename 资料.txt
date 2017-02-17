@@ -1,0 +1,20 @@
+C++实现端口扫描
+https://my.oschina.net/u/187483/blog/129141
+端口扫描
+https://www.oschina.net/code/snippet_103422_5994
+简单的端口扫描程序
+https://www.oschina.net/code/snippet_250934_12397
+linux下脚本删除自己
+http://blog.sina.com.cn/s/blog_406127500101dkr6.html
+Linux下基于C/C++的Socket编程实例 
+http://blog.csdn.net/sws9999/article/details/8139577
+Linux C语言写的超级简单端口扫描器 
+http://blog.csdn.net/kongjiajie/article/details/4799986
+struct sockaddr与struct sockaddr_in的区别和联系 
+http://blog.csdn.net/samulelin/article/details/4431351
+SOCKADDR_IN百度百科
+http://baike.baidu.com/link?url=HOeYCAwBwBJ-KXs3Vn4JUZcLwu3IqqjaQShgGrxQUYVi2ROf6ncSXajZDms0JZR34hM28uYkGYO3lmC6HbiMua
+socket百度百科
+http://baike.baidu.com/link?url=-YeZhpfNzyO4-Oi7rUBzb-ZaqXOqxEFi5kCdiybOUCtANSzKh6-s6B23ZXP3jRU3jVu4zSk1e79g_RFK08ThVq
+socket编程基础(一组)(C语言中文网)
+http://c.biancheng.net/cpp/html/3032.html
